@@ -19,19 +19,40 @@ Analyzing the NYC vehicle collision data
 
 ### Areas with more Collision:
 
+![Collisioncount](/images/visualization-128.png)
 
-### Group of passengers most affected
+
+### Group of passengers most affected:
 
 
-### Days and Time having more Collsions
+
+### Days and Time having more Collsions:
+
+
+##### Collision peak time rate over days:
+
+![Collisioncount](/images/visualization-129.png)
+
+##### Collision rate over days by boroughs:
+
+![Collisioncount](/images/visualization-130.png)
+
 
 
 ### Factors responsible for Collisions
 
-
+![Factors](/images/visualization-129.png)
 
 
 
 # Summary:
+
+1. The peak time of collision was around 4-5pm and highest on Fridays.
+2. The main reason of the collision i.e highest contributing factor was “Driver distraction”  during the peak hours.
+3. The highest group of people affected during collision were the motorists.
+4. Some measures where implemented in Brooklyn in 2014, which led to decrease in collision 
+5. Analyzing Brooklyn data during peak time, zip code 11207 had highest collision
+6. Drowsiness has led to collisions during morning peak hours in Brooklyn
+
 
 
