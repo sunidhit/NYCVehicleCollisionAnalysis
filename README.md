@@ -25,6 +25,8 @@ Analyzing the NYC vehicle collision data
 
 ## Group of passengers most affected:
 
+![Passengers](/images/visualization-134.png)
+
 
 
 ## Days and Time having more Collsions:
