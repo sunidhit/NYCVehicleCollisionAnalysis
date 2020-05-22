@@ -62,6 +62,14 @@ Analyzing the NYC vehicle collision data
 ![Hotspots](/images/visualization-133.png)
 
 
+### Factors responsible in zipcode-11207:
+
+![Factors](/images/visualization-136.png)
+
+
+### Cross streets in 11207:
+
+![Factors](/images/visualization-135.png)
 
 # Summary:
 
