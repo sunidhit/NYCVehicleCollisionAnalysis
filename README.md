@@ -17,31 +17,32 @@ Analyzing the NYC vehicle collision data
 # Analysis:
 
 
-### Areas with more Collision:
+## Areas with more Collision:
 
 ![Collisioncount](/images/visualization-128.png)
 
 
-### Group of passengers most affected:
+
+## Group of passengers most affected:
 
 
 
-### Days and Time having more Collsions:
+## Days and Time having more Collsions:
 
 
-##### Collision peak time rate over days:
+### Collision peak time rate over days:
 
 ![Collisioncount](/images/visualization-129.png)
 
-##### Collision rate over days by boroughs:
+### Collision rate over days by boroughs:
 
 ![Collisioncount](/images/visualization-130.png)
 
 
 
-### Factors responsible for Collisions
+## Factors responsible for Collisions
 
-![Factors](/images/visualization-129.png)
+![Factors](/images/visualization-131.png)
 
 
 
