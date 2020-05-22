@@ -4,6 +4,8 @@ Analyzing the NYC vehicle collision data
 
 ### Problem Statement : Revamp traffic control measures in New York City hotspots.
 
+### Datasets : [Dataset link](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
 
 # Domain Questions:
 
@@ -14,7 +16,7 @@ Analyzing the NYC vehicle collision data
 5. What do you mean by reason of collision? Is it a specific reason or multiple reasons ?
 
 
-# Analysis:
+# Analysis of NYC Data:
 
 
 ## Areas with more Collision:
@@ -45,6 +47,19 @@ Analyzing the NYC vehicle collision data
 ## Factors responsible for Collisions
 
 ![Factors](/images/visualization-131.png)
+
+
+
+# Analysis of Brooklyn Data:
+
+### Top 5 hotspots - zipcode:
+
+![Hotspots](/images/visualization-132.png)
+
+
+### Passengers affected most in 11207:
+
+![Hotspots](/images/visualization-133.png)
 
 
 
